@@ -9,7 +9,8 @@
 
 ## SIM
 
-Can get a temporary SIM card from ubigi for cheaper than international data plan but maybe your phone number wont work... maybe nobody cares
+  - e-sim works on unlocked phone onry 
+    - Something about convert to esim in iphone maybe turn off roaming and other sim or something
   - [Get an ubigi](https://cellulardata.ubigi.com/data-plans-and-coverage/ubigi-esim-data-plans/?destination=&region=asia&currency=usd&one-off=on&monthly=on&annual=on&origin=hp#table-plans-view) 10G/$17
   - Coupon code 10% off `PRETRAVELLER`
 
