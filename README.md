@@ -14,7 +14,7 @@ Can get a temporary SIM card from ubigi for cheaper than international data plan
 
 ## International Drivers License
 
-Get international drivers license from AAA near Anduril $40
+Get international drivers license from AAA $40
 
 ## Things to do
 
