@@ -7,6 +7,10 @@
 - [**Osaka Marriott Miyako**](https://www.marriott.com/en-us/hotels/osamc-osaka-marriott-miyako-hotel/overview/) Wed 11/29 - Fri 12/1
 - [**AC Hotel Mariott Ginza**](https://www.marriott.com/en-us/hotels/tyoar-ac-hotel-tokyo-ginza/overview/) Fri 12/1 - Sun 12/3
 
+## Trains
+
+JR pass is no longer cost effective just get Suica card at train station 
+
 ## SIM
 
   - e-sim works on unlocked phone onry 
